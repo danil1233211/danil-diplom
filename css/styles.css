@@ -1,0 +1,79 @@
+header{
+    background-color:#833AE1 ;
+   padding:20px 30px ;
+   display: flex;
+   justify-content:space-between ;
+   align-items: center;
+   gap: 15px ; 
+}
+
+header img {
+    width: 42px;
+    height: 53px;
+}
+
+header div {
+    display: flex;
+    align-items: center;
+    gap:95px;
+    
+}
+
+header div a {
+    color: #FFFFFF;
+    font-family: Montserrat;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-offset: 0%;
+text-decoration-thickness: 0%;
+
+}
+
+footer {
+    padding: 27px 30px 30px;
+}
+
+footer .top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 52px;
+    padding-bottom: 36px;
+    border-bottom:  2px solid #602B7A;
+    margin-bottom:  27px
+}
+
+footer .top a {
+    font-family: Montserrat ;
+font-weight: 600;
+font-size: 25px;
+line-height: 35px;
+letter-spacing: 0%;
+text-decoration: none;
+}
+footer .bottom {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .bottom p {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 17px;
+    line-height: 22px;
+
+}
+.baner {
+    padding: 127px 30px 145px;
+    display:flex;
+    flex-direction: column;
+}
